@@ -1,7 +1,7 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-[> https://varadbhogayata.github.io](https://saad-rehman.vercel.app/)
+(https://saad-rehman.vercel.app/)
 
 
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
