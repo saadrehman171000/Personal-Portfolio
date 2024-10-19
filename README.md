@@ -7,7 +7,7 @@
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 
-:star: Star me on GitHub — it helps!
+star: Star me on GitHub — it helps!
 
 ## Features 📋
 ⚡️ Fully Responsive\
